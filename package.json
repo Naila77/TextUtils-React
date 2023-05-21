@@ -1,10 +1,9 @@
 {
-  "homepage": "https://naila77.github.io/TextUtils-React/"
+  "homepage": "https://naila77.github.io/TextUtils-React/",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
+  "dependencies": {   "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^5.0.0",
